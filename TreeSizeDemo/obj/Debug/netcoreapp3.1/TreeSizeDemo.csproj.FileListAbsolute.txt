@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\bin\Debug\netcoreapp3.1\TreeSizeDemo.exe
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\bin\Debug\netcoreapp3.1\TreeSizeDemo.deps.json
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\bin\Debug\netcoreapp3.1\TreeSizeDemo.runtimeconfig.json
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\bin\Debug\netcoreapp3.1\TreeSizeDemo.runtimeconfig.dev.json
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\bin\Debug\netcoreapp3.1\TreeSizeDemo.dll
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\bin\Debug\netcoreapp3.1\TreeSizeDemo.pdb
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.AssemblyInfo.cs
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.dll
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.pdb
+C:\Users\asus\source\repos\TreeSizeDemo\TreeSizeDemo\obj\Debug\netcoreapp3.1\TreeSizeDemo.genruntimeconfig.cache
